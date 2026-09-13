@@ -107,3 +107,16 @@ tools/              Repeatable UI demo recorder
 docs/media/         README animation and screenshot
 main.py             Application entry point
 ```
+
+## License
+
+NG Optics is open-source software released under the
+[GNU General Public License v3.0](LICENSE) (GPL-3.0-only).
+This license covers the project source code, documentation, examples and demo
+media in this repository. Third-party dependencies retain their respective
+licenses.
+
+## Development
+
+ChatGPT was used during the development of NG Optics, including assistance
+with implementation, debugging and documentation.
