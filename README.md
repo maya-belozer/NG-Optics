@@ -36,6 +36,10 @@ The portable Windows x64 build is named **NG Optics v0.2.0.exe**. Run the EXE
 directly; no Python installation is required. English is selected at startup.
 The executable includes the built-in translations.
 
+Download the latest release build here:
+
+- [Download NG Optics v0.2.0 executable](dist/NG%20Optics%20v0.2.0.exe)
+
 When building from this repository, the EXE is written to
 `dist/NG Optics v0.2.0.exe`.
 
@@ -120,3 +124,6 @@ licenses.
 
 ChatGPT was used during the development of NG Optics, including assistance
 with implementation, debugging and documentation.
+
+Special thanks to Andrey Khudchenko for the original mathematical scripts
+that formed the basis of this work: <https://orcid.org/0000-0002-8070-917X>.
